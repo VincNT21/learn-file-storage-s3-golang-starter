@@ -1,0 +1,12 @@
+{
+    "postman.settings.dotenv-detection-notification-visibility": false,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "tubely",
+            "database": "${workspaceFolder:learn-file-storage-s3-golang-starter}/tubely.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
